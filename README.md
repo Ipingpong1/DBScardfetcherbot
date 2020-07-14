@@ -7,6 +7,6 @@ You can type in as many cards as you want in your post (e.x "My favorite cards a
 
 The bot also supports half written card names if you don't remember full card names, however the less specific you get the more clouded the results the bot provides will be (e.x You can comment "I dont remember the full name but its kinda like {Scientist}" and the bot will still reply with "|Scientist Fu|", however if you just type in "{fu}" there are a lot of possibilities as to what the bot could pick, so it might be not exactly what you are thinking of)
 
-The bot is not case sensitive (e.x "{ScIenTIST fU}" and "{scientist fu}" return the same results, don't worry about proper capitalization)
+The bot is not case sensitive (e.x "{ScIenTIST fU}" and "{scientist fu}" return the same results, don't worry about proper capitalization), the same applies for special characters, you dont have to worry about special characters, use them if you want or dont use them if you dont.
 
-The bot currently does not support common nicknames, however if there are any you think should be implemented, please let me or u/DBScardfetcherbot know.
+The bot currently does not support common nicknames, however if there are any you think should be implemented, please let me knoe :)
