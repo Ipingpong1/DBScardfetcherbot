@@ -1,0 +1,13 @@
+If you wanna make some derivative of this, step 1 is gonna be to install reddits API called PRAW, you can download this
+from the console using the console command
+
+pip install praw==3.6.0
+
+Once you do that, make sure to your client API keys from reddit, you can see where they should go because I replaced
+instances of mine with 'put your stuff here' in main.py, alongside this, make the account for your bot.
+
+This bot can be super easily repurposed for any card game, as long as the databases match up with your respective card game's cards
+and especially your chosen card game website's card storage systems, in this case, cards were organized 1-2265, as you can see in
+the cardDB and cardDBNS files which store the original and special characterless card databases respectively. I reccomend fetching this
+data using a webscraper, I personally used Selenium for Python 3, and make sure to make appropriate changes to the regex if your
+cards are stored using alpha values as opposed to numeric ones, as the regex right now only keeps numbers while extracting card codes.
