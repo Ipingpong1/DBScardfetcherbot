@@ -18,10 +18,10 @@ origText = f2.read()
 
 #initiates the reddit instance using APIkey shenanigans
 
-reddit = praw.Reddit(client_id='N1WzYawyMVj5pQ',
-                     client_secret='mEboVkpQw3QHEo2u-rR66VGNAKc',
-                     username='DBScardfetcher',
-                     password='DBScardfetcher',
+reddit = praw.Reddit(client_id='Ur stuff here',
+                     client_secret='Ur stuff here',
+                     username='ur stuff here',
+                     password='ur stuff here',
                      user_agent='DBScardfetcher by /u/ipingpong1')
 
 #decodes html entities from reddit comments as some special characters are html encoded
