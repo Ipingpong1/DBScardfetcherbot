@@ -9,4 +9,4 @@ The bot also supports half written card names if you don't remember full card na
 
 The bot is not case sensitive (e.x "{ScIenTIST fU}" and "{scientist fu}" return the same results, don't worry about proper capitalization), the same applies for special characters, you dont have to worry about special characters, use them if you want or dont use them if you dont.
 
-The bot currently does not support common nicknames, however if there are any you think should be implemented, please let me knoe :)
+The bot currently does not support common nicknames, however if there are any you think should be implemented, please let me know :)
